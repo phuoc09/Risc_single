@@ -1,0 +1,211 @@
+C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux3_1.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux3_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3_1
+
+Top level modules:
+	mux3_1
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module WB_module
+
+Top level modules:
+	WB_module
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_logic.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_logic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control_logic
+
+Top level modules:
+	control_logic
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_datapath.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module single_cycle_datapath
+
+Top level modules:
+	single_cycle_datapath
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module_tb.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ID_module_tb
+
+Top level modules:
+	ID_module_tb
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module_tb.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EX_module_tb
+
+Top level modules:
+	EX_module_tb
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_decoder
+
+Top level modules:
+	ALU_decoder
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top_tb.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module single_cycle_top_tb
+
+Top level modules:
+	single_cycle_top_tb
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module_tb.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IF_module_tb
+
+Top level modules:
+	IF_module_tb
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp_tb.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module branch_comp_tb
+
+Top level modules:
+	branch_comp_tb
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/pc_adder.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/pc_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pc_adder
+
+Top level modules:
+	pc_adder
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ID_module
+
+Top level modules:
+	ID_module
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EX_module
+
+Top level modules:
+	EX_module
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/PC.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IF_module
+
+Top level modules:
+	IF_module
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder_tb.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_decoder_tb
+
+Top level modules:
+	ALU_decoder_tb
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module branch_comp
+
+Top level modules:
+	branch_comp
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Reg_file.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Reg_file
+
+Top level modules:
+	Reg_file
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit_tb.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control_unit_tb
+
+Top level modules:
+	control_unit_tb
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Instr_mem.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Instr_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instr_mem
+
+Top level modules:
+	Instr_mem
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Branch_control.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Branch_control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Branch_control
+
+Top level modules:
+	Branch_control
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_tb.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Data_mem.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Data_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_mem
+
+Top level modules:
+	Data_mem
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module_tb.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module WB_module_tb
+
+Top level modules:
+	WB_module_tb
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module single_cycle_top
+
+Top level modules:
+	single_cycle_top
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/logic_control_tb.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/logic_control_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module logic_control_tb
+
+Top level modules:
+	logic_control_tb
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux2_1.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux2_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2_1
+
+Top level modules:
+	mux2_1
+
+} {} {}} C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Imm_gen.v {1 {vlog -work work -stats=none C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Imm_gen.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Imm_gen
+
+Top level modules:
+	Imm_gen
+
+} {} {}}

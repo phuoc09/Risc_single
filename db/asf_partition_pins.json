@@ -1,0 +1,181 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Inst[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[20]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[21]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[22]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[23]",
+					"strict" : false
+				},
+				{
+					"name" : "Inst[24]",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "ASel",
+					"strict" : false
+				},
+				{
+					"name" : "ImmSel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ImmSel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ImmSel[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BSel",
+					"strict" : false
+				},
+				{
+					"name" : "ALUSel[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUSel[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUSel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUSel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUSel[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Jump",
+					"strict" : false
+				},
+				{
+					"name" : "BrUn",
+					"strict" : false
+				},
+				{
+					"name" : "Branch[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Branch[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Branch[2]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "WBSel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "WBSel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RegWEn",
+					"strict" : false
+				},
+				{
+					"name" : "MemRW",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

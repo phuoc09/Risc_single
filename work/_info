@@ -1,0 +1,719 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vALU
+Z0 !s110 1718948593
+!i10b 1
+!s100 aF<m5ZZ_d3MjomoD_HoC92
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_eZfOmDHNcPXRHT`czTlN0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor
+Z4 w1718944098
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU.v
+!i122 0
+L0 1 35
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1718948592.000000
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@l@u
+vALU_decoder
+R0
+!i10b 1
+!s100 VRX@1Z8]CS[P<j1PMXl=52
+R1
+IZb:R>EgEGDXG0zgAYX;LH0
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder.v
+!i122 1
+L0 23 94
+R5
+r1
+!s85 0
+31
+Z8 !s108 1718948593.000000
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder.v|
+!i113 1
+R6
+R7
+n@a@l@u_decoder
+vALU_decoder_tb
+R0
+!i10b 1
+!s100 6i]@:dGeC9J1lj]=CI?Kj3
+R1
+IJ9[oPzb@fBfm44l8in2l^1
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder_tb.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder_tb.v
+!i122 2
+L0 23 121
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_decoder_tb.v|
+!i113 1
+R6
+R7
+n@a@l@u_decoder_tb
+vALU_tb
+R0
+!i10b 1
+!s100 =ZCj^gJcYEIRH1fJD3T`]3
+R1
+ICYZkSKE1g8QIY`kOSn6_o3
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_tb.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_tb.v
+!i122 3
+L0 25 146
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ALU_tb.v|
+!i113 1
+R6
+R7
+n@a@l@u_tb
+vbranch_comp
+R0
+!i10b 1
+!s100 SHnOTlQ<l7^dSDDg`a<0G0
+R1
+IBOf=5d0U0n3j]8IXnoA5B0
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp.v
+!i122 4
+L0 23 16
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp.v|
+!i113 1
+R6
+R7
+vbranch_comp_tb
+R0
+!i10b 1
+!s100 bmHVMQ2727hVFRGdh`N;R3
+R1
+I1eR5D`jbHfQQN4MOSgezh2
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp_tb.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp_tb.v
+!i122 5
+L0 23 58
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/branch_comp_tb.v|
+!i113 1
+R6
+R7
+vBranch_control
+R0
+!i10b 1
+!s100 P9bIni4H:ciTjJbN0Vked2
+R1
+IAznG0_KnJi[Ai^CGRYYDd3
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Branch_control.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Branch_control.v
+!i122 6
+Z9 L0 23 19
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Branch_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Branch_control.v|
+!i113 1
+R6
+R7
+n@branch_control
+vcontrol_logic
+R0
+!i10b 1
+!s100 gT[end>fBJX4D;0a]>;RX1
+R1
+I2Zzk;7QBn?BW9NTX1[]Y@2
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_logic.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_logic.v
+!i122 7
+L0 23 82
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_logic.v|
+!i113 1
+R6
+R7
+vcontrol_unit
+R0
+!i10b 1
+!s100 ZdK@_7S;;8@R<@OdEo`Qm3
+R1
+IWf_cZzQf@Fka2?lRNGIM62
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit.v
+!i122 8
+L0 23 30
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit.v|
+!i113 1
+R6
+R7
+vcontrol_unit_tb
+R0
+!i10b 1
+!s100 9oe;Dzj4<5cJDh1=YbajH2
+R1
+IIMKT6alaM1[LM@Bd2;m=j2
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit_tb.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit_tb.v
+!i122 9
+L0 190 245
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/control_unit_tb.v|
+!i113 1
+R6
+R7
+vData_mem
+R0
+!i10b 1
+!s100 k71QXdGodh_9KNdbMEW2?0
+R1
+IBobLEGHA4:b2KYiYW:0nY3
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Data_mem.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Data_mem.v
+!i122 10
+R9
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Data_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Data_mem.v|
+!i113 1
+R6
+R7
+n@data_mem
+vEX_module
+R0
+!i10b 1
+!s100 Nj5]RzX_`>XoIFWXl64Gc1
+R1
+I7jaKCk`A=U]YVAJ:BdTE[2
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module.v
+!i122 11
+Z10 L0 23 29
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module.v|
+!i113 1
+R6
+R7
+n@e@x_module
+vEX_module_tb
+Z11 !s110 1718948594
+!i10b 1
+!s100 5a^[fB?4_m<;YgOD0NKK81
+R1
+I_N]Whbl]kcbjFzzXG1ahB3
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module_tb.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module_tb.v
+!i122 12
+L0 23 223
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/EX_module_tb.v|
+!i113 1
+R6
+R7
+n@e@x_module_tb
+vID_module
+R11
+!i10b 1
+!s100 702BH?fKeE>2Z[R_S:Amb3
+R1
+ID?H:nV0R=S^0^V:LaZ]BU0
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module.v
+!i122 13
+L0 23 37
+R5
+r1
+!s85 0
+31
+Z12 !s108 1718948594.000000
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module.v|
+!i113 1
+R6
+R7
+n@i@d_module
+vID_module_tb
+R11
+!i10b 1
+!s100 `4PA`<@==A??higHP;f0f3
+R1
+Iah4^3LMVN0@hB0<W7KdkX1
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module_tb.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module_tb.v
+!i122 14
+L0 23 4
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/ID_module_tb.v|
+!i113 1
+R6
+R7
+n@i@d_module_tb
+vIF_module
+R11
+!i10b 1
+!s100 gP=WIj>4cUZ:0enMZ<F4]2
+R1
+IQMa9z<[_lOD1KOHmhX>`I0
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module.v
+!i122 15
+R10
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module.v|
+!i113 1
+R6
+R7
+n@i@f_module
+vIF_module_tb
+R11
+!i10b 1
+!s100 7`mcJkMmdmS0W@OhJ:jWA1
+R1
+I9_Ka>U3H6LPlgeYdLG;c_3
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module_tb.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module_tb.v
+!i122 16
+L0 23 31
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/IF_module_tb.v|
+!i113 1
+R6
+R7
+n@i@f_module_tb
+vImm_gen
+R11
+!i10b 1
+!s100 gbMW=:2zi:1<;`:GdC2ik2
+R1
+IQUJF^HEd5:liE6MTScz502
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Imm_gen.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Imm_gen.v
+!i122 17
+L0 23 23
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Imm_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Imm_gen.v|
+!i113 1
+R6
+R7
+n@imm_gen
+vInstr_mem
+R11
+!i10b 1
+!s100 P;06;eAJ1B`49B;h]n1nc0
+R1
+IcC<8?5eJgDHikEeB`K4^P3
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Instr_mem.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Instr_mem.v
+!i122 18
+Z13 L0 23 17
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Instr_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Instr_mem.v|
+!i113 1
+R6
+R7
+n@instr_mem
+vlogic_control_tb
+R11
+!i10b 1
+!s100 EWh<P5jblEQ07DjVaI[X82
+R1
+I?d>Tlmb`Y85f`N2WF0:ZU1
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/logic_control_tb.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/logic_control_tb.v
+!i122 19
+L0 23 140
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/logic_control_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/logic_control_tb.v|
+!i113 1
+R6
+R7
+vmux2_1
+R11
+!i10b 1
+!s100 Kk_0<K>b2g2<M0?l32FPl2
+R1
+I3VMlKG>2U;kd>Z9BFVmR43
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux2_1.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux2_1.v
+!i122 20
+L0 23 13
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux2_1.v|
+!i113 1
+R6
+R7
+vmux3_1
+Z14 !s110 1718948595
+!i10b 1
+!s100 OeOO6VAn2gM7DNXiQXmRB0
+R1
+I`=f?ecfCHB1zYUa>Rc[E20
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux3_1.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux3_1.v
+!i122 21
+Z15 L0 23 15
+R5
+r1
+!s85 0
+31
+Z16 !s108 1718948595.000000
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux3_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/mux3_1.v|
+!i113 1
+R6
+R7
+vPC
+R14
+!i10b 1
+!s100 6;LG<A8ERHTBUUT8hnO?c2
+R1
+I^gWX<`I6jckQ2d7TONaKF3
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/PC.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/PC.v
+!i122 22
+R15
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/PC.v|
+!i113 1
+R6
+R7
+n@p@c
+vpc_adder
+R14
+!i10b 1
+!s100 X09Gaj^;^W<Il@h4c7h4W2
+R1
+IhCohgQ>8NCNUSZgOkY@1<1
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/pc_adder.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/pc_adder.v
+!i122 23
+L0 23 6
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/pc_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/pc_adder.v|
+!i113 1
+R6
+R7
+vReg_file
+R14
+!i10b 1
+!s100 BFN8XbGIQJgVL<lG89>YQ2
+R1
+IBA[TM9cYg:>jHDdDzj78z3
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Reg_file.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Reg_file.v
+!i122 24
+L0 23 26
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Reg_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/Reg_file.v|
+!i113 1
+R6
+R7
+n@reg_file
+vsingle_cycle_datapath
+R14
+!i10b 1
+!s100 @7`1;F^cbCHgh4zj`dO<00
+R1
+I:ldAfR72=g=g^3bc]oKM@1
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_datapath.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_datapath.v
+!i122 25
+L0 23 76
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_datapath.v|
+!i113 1
+R6
+R7
+vsingle_cycle_top
+R14
+!i10b 1
+!s100 <4M<D]^[oWTh]bH1UTPD20
+R1
+IoWCKjhE[D67?<fSV`?zW60
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top.v
+!i122 26
+L0 23 55
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top.v|
+!i113 1
+R6
+R7
+vsingle_cycle_top_tb
+R14
+!i10b 1
+!s100 9H[?`0MLH9S4BNQA1jXX]1
+R1
+I^@c`X1<fJVJ55;4G;I>>M2
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top_tb.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top_tb.v
+!i122 27
+L0 23 368
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/single_cycle_top_tb.v|
+!i113 1
+R6
+R7
+vWB_module
+R14
+!i10b 1
+!s100 S^AU^[?Qm=KKF6]nkz0g_1
+R1
+I5i=<a:L5K9iW]Eh=G?a_82
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module.v
+!i122 28
+R13
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module.v|
+!i113 1
+R6
+R7
+n@w@b_module
+vWB_module_tb
+R14
+!i10b 1
+!s100 eMj`<AP53VO1b:[A<n;AD3
+R1
+ImmKn>jJ=d@68^goRhWOi=3
+R2
+R3
+R4
+8C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module_tb.v
+FC:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module_tb.v
+!i122 29
+L0 23 40
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/phuoc/Downloads/RISCV-32I-Single-Cycle-Processor/WB_module_tb.v|
+!i113 1
+R6
+R7
+n@w@b_module_tb

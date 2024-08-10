@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Jun 22 06:28:55 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : asf
+Top-level Entity Name : single_cycle_datapath
+Family : Cyclone IV E
+Total logic elements : 58,699
+    Total combinational functions : 25,028
+    Dedicated logic registers : 33,824
+Total registers : 33824
+Total pins : 53
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Jun 22 06:46:31 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : asf
+Top-level Entity Name : single_cycle_datapath
+Family : Cyclone IV E
+Device : EP4CE55F23C6
+Timing Models : Final
+Total logic elements : 42,257 / 55,856 ( 76 % )
+    Total combinational functions : 25,028 / 55,856 ( 45 % )
+    Dedicated logic registers : 33,824 / 55,856 ( 61 % )
+Total registers : 33824
+Total pins : 53 / 325 ( 16 % )
+Total virtual pins : 0
+Total memory bits : 0 / 2,396,160 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 308 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
